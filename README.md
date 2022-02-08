@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Overview
-The purpose of this analysis is to determine whether or not opening up a bike sharing company is feasible in Des Moines, Iowa.
+The purpose of this analysis is to determine whether or not opening up a bike sharing company is practical in Des Moines, Iowa.
 ## Dashboard
 [link to dashboard](https://public.tableau.com/views/BikesharingChallenge_16442874966230/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ## Summary
